@@ -2,7 +2,7 @@
 :root {
     --primary: #200080;
     --light: #F3F6F8;
-    --dark: #0E2E50;
+    --dark: #200080;
 }
 
 
@@ -216,7 +216,7 @@
 /*** Hero Header ***/
 .hero-header {
     margin-bottom: 6rem;
-    padding: 12rem 0 9rem 0;
+    padding: 9rem 0 9rem 0;
     background: url(../img/shape-bottom.png) center bottom no-repeat;
 }
 
